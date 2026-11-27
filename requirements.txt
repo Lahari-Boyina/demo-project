@@ -1,4 +1,4 @@
-requests==2.25.0
+requests==2.34.2
 packaging==20.9
 six==1.15.0
 pytest==8.0.0
